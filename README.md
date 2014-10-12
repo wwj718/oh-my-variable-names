@@ -62,4 +62,4 @@ balance = balance +Interest( customerID, balance );
 
 ##  为枚举类型命名
 
-##  为常亮命名
+##  为常量命名
